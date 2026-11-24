@@ -1,0 +1,5 @@
+flask
+requests
+openpyxl
+gunicorn
+playwright==1.49.0
